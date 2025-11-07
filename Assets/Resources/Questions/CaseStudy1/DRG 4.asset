@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fe9da06741030c489a84bcc88dc0e4b, type: 3}
+  m_Name: DRG 4
+  m_EditorClassIdentifier: 
+  question: By fixing the lesion at the dorsal root ganglion, what type of information
+    would you relay to the second order neuron?
+  answers:
+  - A. Fine touch information from the ipsilateral skin receptors
+  - B. Fine touch information from the contralateral skin receptors
+  - C. Motor information from the ipsilateral skin receptors
+  - D. Motor information from the contralateral skin receptors
+  correctAnswer: 0
+  Position: 0
+  Quizlocation: DorsalRootGanglion
+  SceneName: Scene1
+  FigureImage: {fileID: 0}

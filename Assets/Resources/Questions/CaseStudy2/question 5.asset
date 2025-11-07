@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fe9da06741030c489a84bcc88dc0e4b, type: 3}
+  m_Name: question 5
+  m_EditorClassIdentifier: 
+  question: 'What test would you order in the hospital to confirm that the patient
+    has a stroke. '
+  answers:
+  - A. Ultrasound
+  - B. Echocardiogram
+  - C. MRI Scan
+  - D. Fluoroscopy
+  correctAnswer: 2
+  Position: 0
+  Quizlocation: DorsalRootGanglion
+  SceneName: Scene2
+  FigureImage: {fileID: 0}
